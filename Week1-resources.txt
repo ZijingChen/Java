@@ -22,6 +22,11 @@ Please check your Processor and default shell before installation.
 -------------------------------------------------
 Download Eclipse at:
 https://www.eclipse.org/downloads/packages/
+Select 'Eclipse IDE for Java Developers'
+Then choose:
+Windows x86_64
+macOS x86_64 | AArch64
+
 
 
 
