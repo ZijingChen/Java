@@ -2,10 +2,32 @@ Textbook:
 Liang, DY 2018, Introduction to Java programming and data structures, comprehensive version, 11th edn, Pearson Education, UK.
 eBook available from ACU Library: https://acu.primo.exlibrisgroup.com/permalink/61ACU_INST/qpf7hm/alma991012963899702352
 
+------------------------------------------------
 Java tutorial:
 https://www.w3schools.com/java/default.asp
 
+------------------------------------------------
+Download jdk at:
+https://www.oracle.com/java/technologies/downloads/
 
-How to download and install Java JDK [Video] https://youtu.be/bIl48gbFiEclink 
+How to download and install Java JDK [Video] 
+For Windows users:
+(Recommended->install JDK 18 on Windows system) https://www.youtube.com/watch?v=cRgLuNWCq6c
+
+
+For Mac users:
+https://www.youtube.com/watch?v=ZeDBQ0d2P5M
+Please check your Processor and default shell before installation.
+
+-------------------------------------------------
+Download Eclipse at:
+https://www.eclipse.org/downloads/packages/
+
+
+
+
+
+Other references:
+How to download and install Java JDK [Video] (with older jdk version ) https://youtu.be/bIl48gbFiEclink 
 How to compile and run a Java file using command prompt [Video] https://www.youtube.com/watch?v=zBF1M8dTftk 
 How to compile and run a Java file using Eclipse software [Video] https://www.youtube.com/watch?v=VoHYAne9Pa4 
