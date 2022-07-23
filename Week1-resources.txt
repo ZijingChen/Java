@@ -10,10 +10,10 @@ https://www.w3schools.com/java/default.asp
 Download jdk at:
 https://www.oracle.com/java/technologies/downloads/
 
+
 How to download and install Java JDK [Video] 
 For Windows users:
 (Recommended->install JDK 18 on Windows system) https://www.youtube.com/watch?v=cRgLuNWCq6c
-
 
 For Mac users:
 https://www.youtube.com/watch?v=ZeDBQ0d2P5M
