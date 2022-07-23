@@ -1,3 +1,8 @@
+Textbook:
+Liang, DY 2018, Introduction to Java programming and data structures, comprehensive version, 11th edn, Pearson Education, UK.
+eBook available from ACU Library: https://acu.primo.exlibrisgroup.com/permalink/61ACU_INST/qpf7hm/alma991012963899702352
+
+
 How to download and install Java JDK [Video] https://youtu.be/bIl48gbFiEclink 
 How to compile and run a Java file using command prompt [Video] https://www.youtube.com/watch?v=zBF1M8dTftk 
 How to compile and run a Java file using Eclipse software [Video] https://www.youtube.com/watch?v=VoHYAne9Pa4 
