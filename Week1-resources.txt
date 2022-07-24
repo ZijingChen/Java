@@ -6,6 +6,26 @@ eBook available from ACU Library: https://acu.primo.exlibrisgroup.com/permalink/
 Java tutorial:
 https://www.w3schools.com/java/default.asp
 
+-----------------------------------------------
+Interactive links
+link1: Welcome
+https://liveexample.pearsoncmg.com/html/Welcome.html
+
+link2: Welcome With Three Messages
+https://liveexample.pearsoncmg.com/html/WelcomeWithThreeMessages.html
+
+link3: Compute Expression
+https://liveexample.pearsoncmg.com/html/ComputeExpression.html
+
+link4: Show Syntax Errors
+https://liveexample.pearsoncmg.com/html/ShowSyntaxErrors.html
+
+link5: Show Runtime Errors
+https://liveexample.pearsoncmg.com/html/ShowRuntimeErrors.html
+
+link6: Show Logic Errors
+https://liveexample.pearsoncmg.com/html/ShowLogicErrors.html
+
 ------------------------------------------------
 Download jdk at:
 https://www.oracle.com/java/technologies/downloads/
