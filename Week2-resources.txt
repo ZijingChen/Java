@@ -1,0 +1,17 @@
+Link1: Compute Area
+https://liveexample.pearsoncmg.com/html/ComputeArea.html
+
+Link2: Compute Area With Console Input
+https://liveexample.pearsoncmg.com/html/ComputeAreaWithConsoleInput.html
+
+Link3: Compute Average
+https://liveexample.pearsoncmg.com/html/ComputeAverage.html
+
+Link4: Display Time
+https://liveexample.pearsoncmg.com/html/DisplayTime.html
+
+Link5: Show Current Time
+https://liveexample.pearsoncmg.com/html/ShowCurrentTime.html
+
+Link6: Sales Tax
+https://liveexample.pearsoncmg.com/html/SalesTax.html
