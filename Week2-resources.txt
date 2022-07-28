@@ -21,3 +21,8 @@ https://liveexample.pearsoncmg.com/html/ShowCurrentTime.html
 
 Link6: Sales Tax
 https://liveexample.pearsoncmg.com/html/SalesTax.html
+----------------------------------------------------
+If you forget to bring your laptop with you, you can practice with Online Java Compiler:
+
+https://www.programiz.com/java-programming/online-compiler/
+----------------------------------------------------
