@@ -1,0 +1,19 @@
+Links in slides
+
+Simple If Demo: 
+https://liveexample.pearsoncmg.com/html/SimpleIfDemo.html
+
+Test Booliean Operators:
+https://liveexample.pearsoncmg.com/html/TestBooleanOperators.html
+
+Leap Year:
+https://liveexample.pearsoncmg.com/html/LeapYear.html
+
+--------------------------------------
+Online Tutorial:
+
+If ... Else
+https://www.w3schools.com/java/java_conditions.asp
+
+Switch
+https://www.w3schools.com/java/java_switch.asp
