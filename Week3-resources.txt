@@ -20,7 +20,11 @@ https://www.w3schools.com/java/java_switch.asp
 
 ---------------------------------------
 Eclipse Tutorial:
-Start here:
+
+For beginners:
+https://www.softwaretestinghelp.com/eclipse/
+
+Official tutorial starts here:
 http://help.eclipse.org/2022-06/index.jsp?nav=%2F0
 
 More to explore:
