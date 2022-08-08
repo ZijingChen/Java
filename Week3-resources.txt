@@ -10,10 +10,18 @@ Leap Year:
 https://liveexample.pearsoncmg.com/html/LeapYear.html
 
 --------------------------------------
-Online Tutorial:
+Java Online Tutorial:
 
 If ... Else
 https://www.w3schools.com/java/java_conditions.asp
 
 Switch
 https://www.w3schools.com/java/java_switch.asp
+
+---------------------------------------
+Eclipse Tutorial:
+Start here:
+http://help.eclipse.org/2022-06/index.jsp?nav=%2F0
+
+More to explore:
+https://www.eclipse.org/getting-started/
