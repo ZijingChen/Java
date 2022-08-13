@@ -1,0 +1,12 @@
+Links in slides
+
+
+
+--------------------------------------
+Java Online Tutorial:
+
+While Loop
+https://www.w3schools.com/java/java_while_loop.asp
+
+For Loop
+https://www.w3schools.com/java/java_for_loop.asp
