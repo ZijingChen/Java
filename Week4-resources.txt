@@ -1,6 +1,18 @@
 Links in slides
+Chinese Zodiac
+https://liveexample.pearsoncmg.com/html/ChineseZodiac.html
 
+Tuition Fee
+https://liveexample.pearsoncmg.com/html/FutureTuition.html
 
+Multiplication Table
+https://liveexample.pearsoncmg.com/html/MultiplicationTable.html
+
+Test Break
+https://liveexample.pearsoncmg.com/html/TestBreak.html
+
+Test Continue
+https://liveexample.pearsoncmg.com/html/TestContinue.html
 
 --------------------------------------
 Java Online Tutorial:
