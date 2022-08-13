@@ -14,6 +14,14 @@ https://liveexample.pearsoncmg.com/html/TestBreak.html
 Test Continue
 https://liveexample.pearsoncmg.com/html/TestContinue.html
 
+Guess Number:
+One time:
+https://liveexample.pearsoncmg.com/html/GuessNumberOneTime.html
+Guess Number:
+https://liveexample.pearsoncmg.com/html/GuessNumber.html
+Using Break:
+https://liveexample.pearsoncmg.com/html/GuessNumberUsingBreak.html
+
 --------------------------------------
 Java Online Tutorial:
 
