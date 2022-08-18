@@ -1,2 +1,7 @@
 Sequences, Selections, and Loops
 https://www.youtube.com/watch?v=eSYeHlwDCNA&t=143s
+
+-------------------------------------------------
+Links in slides:
+Compute Angles
+https://liveexample.pearsoncmg.com/html/ComputeAngles.html
