@@ -3,5 +3,36 @@ https://www.youtube.com/watch?v=eSYeHlwDCNA&t=143s
 
 -------------------------------------------------
 Links in slides:
+
 Compute Angles
 https://liveexample.pearsoncmg.com/html/ComputeAngles.html
+
+Order Two Cities
+https://liveexample.pearsoncmg.com/html/OrderTwoCities.html
+
+Format Demo
+https://liveexample.pearsoncmg.com/html/FormatDemo.html
+
+Test File Class
+https://liveexample.pearsoncmg.com/html/TestFileClass.html
+
+Write Data
+https://liveexample.pearsoncmg.com/html/WriteData.html
+
+Write Data with Auto Close
+https://liveexample.pearsoncmg.com/html/WriteDataWithAutoClose.html
+
+Read Data
+https://liveexample.pearsoncmg.com/html/ReadData.html
+
+Replace Text
+https://liveexample.pearsoncmg.com/html/ReplaceText.html
+
+----------------------------------------------------
+Online Tutorial
+
+Java Math
+https://www.w3schools.com/java/java_math.asp
+
+Java Methods
+https://www.w3schools.com/java/java_methods.asp
