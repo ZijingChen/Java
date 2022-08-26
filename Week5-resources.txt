@@ -50,3 +50,6 @@ https://www.w3schools.com/java/java_math.asp
 
 Java Methods
 https://www.w3schools.com/java/java_methods.asp
+
+Printing with Field Widths and Precisions
+http://underpop.online.fr/j/java/help/printing-with-field-widths-and-precisions-formatted-output.html.gz
