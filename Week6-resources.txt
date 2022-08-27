@@ -8,3 +8,14 @@ https://liveexample.pearsoncmg.com/html/TestReturnGradeMethod.html
 
 Test Method Overloading -- IMPORTANT!
 https://liveexample.pearsoncmg.com/html/TestMethodOverloading.html
+
+Print Calendar
+https://liveexample.pearsoncmg.com/html/PrintCalendar.html
+----------------------------------
+GUI Tutorial
+
+Java GUI tutorial: https://www.youtube.com/watch?v=5o3fMLPY7qY
+
+Java JOptionPane: https://www.youtube.com/watch?v=BuW7y21FcYI
+
+The Java Tutorial - How to Make Dialogs: https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
