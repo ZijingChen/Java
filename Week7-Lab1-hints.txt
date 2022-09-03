@@ -1,1 +1,51 @@
+Step1: Read each line of a file.
+The file name is passed as a command-line argument
+(reference: https://www.w3schools.com/java/java_files_read.asp)
+
+-----------------
+
+import java.io.File;  // Import the File class
+import java.io.FileNotFoundException;  // Import this class to handle errors
+import java.util.Scanner; // Import the Scanner class to read text files
+
+public class ReadFile {
+  public static void main(String[] args) {
+    try {
+      File myObj = new File(args[0]);//new File("filename.txt");
+      Scanner myReader = new Scanner(myObj);
+      while (myReader.hasNextLine()) {
+        String data = myReader.nextLine();
+        System.out.println(data);
+      }
+      myReader.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+  }
+}
+
+---------------------
+**********************
+**********************
+Step2: Creat an Array list. Store each line (a string) in ArrayList
+(reference: https://www.w3schools.com/java/java_arraylist.asp)
+**********************
+**********************
+Step3: For each element of the ArrayList, (visit each element with a for-loop), count
+1) characters
+2) words
+3) lines
+
+Suppose each line is stored in 'sentence'
+1)How to count characters (incluing white space): sentence.length()
+2)How to count words:
+	
+	public static int countWordsUsingStringTokenizer(String sentence) { 
+		if (sentence == null || sentence.isEmpty()) {
+			return 0; 
+		} 
+		StringTokenizer tokens = new StringTokenizer(sentence); 
+		return tokens.countTokens(); 
+	}
 
