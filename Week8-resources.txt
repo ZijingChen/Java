@@ -1,0 +1,28 @@
+Links in slides
+
+Test Simple Circle
+https://liveexample.pearsoncmg.com/html/TestSimpleCircle.html
+
+TV
+https://liveexample.pearsoncmg.com/html/TV.html
+Test TV
+https://liveexample.pearsoncmg.com/html/TestTV.html
+
+Test Point 2D
+https://liveexample.pearsoncmg.com/html/TestPoint2D.html
+
+Circle With Static Members
+https://liveexample.pearsoncmg.com/html/CircleWithStaticMembers.html
+Test Circle With Static Members
+https://liveexample.pearsoncmg.com/html/TestCircleWithStaticMembers.html
+
+Circle With Private Data Fields
+https://liveexample.pearsoncmg.com/html/CircleWithPrivateDataFields.html
+Test Circle With Private Data Fields
+https://liveexample.pearsoncmg.com/html/TestCircleWithPrivateDataFields.html
+
+Test Pass Object
+https://liveexample.pearsoncmg.com/html/TestPassObject.html
+
+Total Area
+https://liveexample.pearsoncmg.com/html/TotalArea.html
