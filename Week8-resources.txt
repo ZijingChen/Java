@@ -31,6 +31,9 @@ https://liveexample.pearsoncmg.com/html/TotalArea.html
 OOP Online Tutorial
 https://www.w3schools.com/java/java_oop.asp
 
+Java Static Keyword
+https://www.javatpoint.com/static-keyword-in-java
+
 
 ---------------------------------------------------------
 Hints for Lab tasks
