@@ -27,6 +27,10 @@ https://liveexample.pearsoncmg.com/html/TestPassObject.html
 Total Area
 https://liveexample.pearsoncmg.com/html/TotalArea.html
 
+-----------------------------------------------------
+OOP Online Tutorial
+https://www.w3schools.com/java/java_oop.asp
+
 
 ---------------------------------------------------------
 Hints for Lab tasks
