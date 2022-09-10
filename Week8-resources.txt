@@ -26,3 +26,13 @@ https://liveexample.pearsoncmg.com/html/TestPassObject.html
 
 Total Area
 https://liveexample.pearsoncmg.com/html/TotalArea.html
+
+
+---------------------------------------------------------
+Hints for Lab tasks
+
+Task1: find common elements in two arrays.
+Use ArrayList to store the common elements.
+
+How to use ArrayList:  
+https://www.w3schools.com/java/java_arraylist.asp
