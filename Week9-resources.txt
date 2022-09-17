@@ -1,0 +1,11 @@
+Links in Slides
+
+Loan
+https://liveexample.pearsoncmg.com/html/Loan.html
+Test Loan Class
+https://liveexample.pearsoncmg.com/html/TestLoanClass.html
+
+Course
+https://liveexample.pearsoncmg.com/html/Course.html
+Test Course
+https://liveexample.pearsoncmg.com/html/TestCourse.html
