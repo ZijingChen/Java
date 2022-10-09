@@ -1,0 +1,47 @@
+Links in slides
+--------------------
+Abstract Class
+
+Geometric Object
+https://liveexample.pearsoncmg.com/html/GeometricObject.html
+Circle
+https://liveexample.pearsoncmg.com/html/Circle.html
+Rectangle
+https://liveexample.pearsoncmg.com/html/Rectangle.html
+TestGeometricObject
+https://liveexample.pearsoncmg.com/html/TestGeometricObject.html
+
+
+Largest Numbers
+https://liveexample.pearsoncmg.com/html/LargestNumbers.html
+
+Test Calendar
+https://liveexample.pearsoncmg.com/html/TestCalendar.html
+--------------------
+Interfaces:
+
+Edible
+https://liveexample.pearsoncmg.com/html/Edible.html
+Test Edible
+https://liveexample.pearsoncmg.com/html/TestEdible.html
+
+----------------------
+Comparable Interface and Cloneable Interface
+
+Sort Comparable Objects
+https://liveexample.pearsoncmg.com/html/SortComparableObjects.html
+
+Comparable Rectangle
+https://liveexample.pearsoncmg.com/html/ComparableRectangle.html
+Sort Rectangles
+https://liveexample.pearsoncmg.com/html/SortRectangles.html
+
+House
+https://liveexample.pearsoncmg.com/html/House.html
+--------------------
+13.9 Case Study: The Rational Class
+
+Rational
+https://liveexample.pearsoncmg.com/html/Rational.html
+Test Rational Class
+https://liveexample.pearsoncmg.com/html/TestRationalClass.html
