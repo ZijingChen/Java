@@ -1,0 +1,25 @@
+Links in slides
+
+Quotient
+https://liveexample.pearsoncmg.com/html/Quotient.html
+Quotient With If
+https://liveexample.pearsoncmg.com/html/QuotientWithIf.html
+Quotient With Method
+https://liveexample.pearsoncmg.com/html/QuotientWithMethod.html
+
+Quotient With Exception
+https://liveexample.pearsoncmg.com/html/QuotientWithException.html
+Input Mismatch Exception Demo
+https://liveexample.pearsoncmg.com/html/InputMismatchExceptionDemo.html
+
+Circle With Exception
+https://liveexample.pearsoncmg.com/html/CircleWithException.html
+Test Circle With Exception
+https://liveexample.pearsoncmg.com/html/TestCircleWithException.html
+
+Invalid Radius Exception
+https://liveexample.pearsoncmg.com/html/InvalidRadiusException.html
+Circle With Radius Exception
+https://liveexample.pearsoncmg.com/html/CircleWithRadiusException.html
+Test Circle With Radius Exception
+https://liveexample.pearsoncmg.com/html/TestCircleWithRadiusException.html
